@@ -1,2 +1,2 @@
-(https://travis-ci.org/jwhelland/docker-react.svg?branch=master)
+![travis](https://travis-ci.org/jwhelland/docker-react.svg?branch=master)
 
